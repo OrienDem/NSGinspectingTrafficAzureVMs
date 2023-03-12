@@ -7,8 +7,8 @@ In this tutorial, we observe various network traffic to and from Azure Virtual M
 
 <h2>Environments and Technologies Used</h2>
 
-* Microsoft Azure (Virtual Machines/Domain Controller/Client Machine)
-* Remote Desktop
+* Microsoft Azure (Virtual Machine Instances)
+* Microsoft Remote Desktop
 * Shared Network Files
 
 <h2>Operating Systems Used </h2>
