@@ -74,13 +74,19 @@ Step 5 click on accounting folder as normal user verify that access is denied
 <img src="https://i.imgur.com/IfqFey2.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-Step 6 add normal user to accountants group. logoff and log back in client one and he should now have the correct permissions
+Step 6 add normal user to accountants group. logoff and log back in client one and it should now have the correct expanded permissions
 </p>
 <br />
 
 <p>
 
-
+<p>
+<img src="https://i.imgur.com/mhT70BW.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
+<p>
+Step 7 verify that with new permissions normal user can access accounting folder
+</p>
+<br />
 
 
 
