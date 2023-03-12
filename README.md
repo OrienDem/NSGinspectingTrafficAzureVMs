@@ -7,12 +7,12 @@ In this tutorial, we observe various network traffic to and from Azure Virtual M
 
 <h2>Environments and Technologies Used</h2>
 
-- Microsoft Azure (Virtual Machines/Domain Controller/Client Machine)
-- Remote Desktop
-- Shared Network Files
+* Microsoft Azure (Virtual Machines/Domain Controller/Client Machine)
+* Remote Desktop
+* Shared Network Files
 
 <h2>Operating Systems Used </h2>
 
-- Windows 10</b> (21H2)
-
+* Windows 10</b> (21H2)
+* Windows Server 2022
 </p>
